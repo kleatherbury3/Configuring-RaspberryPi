@@ -2,9 +2,8 @@
 Setting Up a Raspberry Pi and Configuring Customizable User Settings
 
 
-
 ## Raspberry Pi Set Up Instructions
-
+\
 **Assembling a Pi**
 
 -   [Video tutorial](https://www.youtube.com/watch?v=XKVd5638T_8). Missing a couple of steps, like heatsink and camera install, but good overview of the process
@@ -26,7 +25,8 @@ Setting Up a Raspberry Pi and Configuring Customizable User Settings
 -   Plug the power supply into the female port on the power splitter
 
 
-
+\
+\
 **Burning the SD card**
 
 -   Install Raspberry Pi OS using [Raspberry Pi imager](https://www.raspberrypi.com/software/)
@@ -69,8 +69,8 @@ Setting Up a Raspberry Pi and Configuring Customizable User Settings
 
 -   Plug USBC side of the power cable into the splitter USBC cable and then plug the power cable into the wall. Make sure the pi turns on (red light on the pi’s motherboard) and the LCD screen turns on
 
- 
-
+\
+\
 **Configuring Custom User Functionalities**
 
 -   In the top left tool bar of the main screen, click on the black terminal window icon
@@ -108,7 +108,8 @@ ifconfig
     -   Send me a screen shot or picture of the ifconfig output containing the MAC address and IP
 
 
-
+\
+\
 **Setting Up and Testing the pi camera**
 
 -   Insert a long ribbon cable (\>2ft) into the camera port on the pi (this is the second ribbon cable port on the Pi's motherboard)
